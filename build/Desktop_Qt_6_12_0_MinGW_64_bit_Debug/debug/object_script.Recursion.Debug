@@ -1,0 +1,12 @@
+debug/balanced.o
+debug/ballots.o
+debug/main.o
+debug/merge.o
+debug/sierpinski.o
+debug/warmup.o
+debug/EmptyProblemHandler.o
+debug/GUIMain.o
+debug/GUIUtils.o
+debug/GVector.o
+debug/ProblemHandler.o
+debug/SierpinskiGUI.o
